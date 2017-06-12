@@ -8,7 +8,7 @@ var days = [
 ];
 var timeLine = document.querySelector('ul.timeline');  //时间线的wrapper，ul
 
-var daysFormat = [];
+var daysFormat = '';
 for(var i=0;i<days.length;i++){
     var li =
         `
