@@ -1,0 +1,127 @@
+/*default*/
+*{
+    box-sizing: border-box;
+}
+body, html { font-size: 100%; padding: 0; margin: 0;}
+.main{
+    width: 95%;
+    max-width: 69em;
+    margin: 0 auto;
+    padding: 0 1.875em 3.125em;
+}
+/*--default*/
+
+.timeline{
+    margin: 30px 0 0 0;
+    padding: 0;
+    list-style: none;
+    position: relative;
+}
+.timeline:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 10px;
+    background: #afdcf8;
+    left: 20%;
+    margin-left: -10px;
+}
+.timeline > li .time{
+    display: block;
+    width: 25%;
+    padding-right: 100px;
+    position: absolute;
+}
+.timeline > li time span{
+    display: block;
+    text-align: right;
+}
+.timeline > li time span:first-child{
+    font-size: 0.9em;
+    color: #bdd0db;
+}
+.timeline > li time span:last-child{
+    font-size: 2.9em;
+    color: #3594cb;
+}
+.timeline > li:nth-child(odd) .time span:last-child{
+    color: #6cbfee;
+}
+.timeline > li .label{
+    margin: 0 0 15px 25%;
+    background: #3594cb;
+    color: #fff;
+    padding: 2em;
+    font-size: 1.2em;
+    font-weight: 300;
+    line-height: 1.4;
+    position: relative;
+    border-radius: 5px;
+}
+.timeline > li:nth-child(odd) .label{
+    background: #6cbfee;
+}
+.timeline > li .label h2{
+    margin-top: 0px;
+    padding: 0 0 10px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.4);
+}
+.timeline > li .label:after {
+    right: 100%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-right-color: #3594cb;
+    border-width: 10px;
+    top: 10px;
+}
+
+.timeline > li:nth-child(odd) .label:after {
+    border-right-color: #6cbfee;
+}
+
+@media screen and (max-width: 65.375em){
+    .timeline > li .time span:last-child {
+        font-size: 1.5em;
+    }
+}
+@media screen and (max-width: 47.2em) {
+    .timeline:before {
+        display: none;
+    }
+
+    .timeline > li .time {
+        width: 100%;
+        position: relative;
+        padding: 0 0 20px 0;
+    }
+
+    .timeline > li .time span {
+        text-align: left;
+    }
+
+    .timeline > li .label {
+        margin: 0 0 30px 0;
+        padding: 1em;
+        font-weight: 400;
+        font-size: 95%;
+    }
+
+    .timeline > li .label:after {
+        right: auto;
+        left: 20px;
+        border-right-color: transparent;
+        border-bottom-color: #3594cb;
+        top: -20px;
+    }
+
+    .timeline > li:nth-child(odd) .label:after {
+        border-right-color: transparent;
+        border-bottom-color: #6cbfee;
+    }
+
+}
