@@ -1,1 +1,26 @@
-
+# 面试知识汇总
+## 简历
+* BOSS
+* 纸质
+* 拉钩
+* 100offer
+## 版本控制
+* svn
+* git
+## 小程序，公众号
+* 要有项目
+## h5
+## 工具
+* lodash
+* webpack
+* eslint
+## 未来关注的技术
+* pwa
+* js的设计模式(如订阅观察者模式)
+## 复习中还没看的知识点
+* localStorage,sessionStorage,cookie,session
+* http
+***
+# 后端
+## python
+## nodes
