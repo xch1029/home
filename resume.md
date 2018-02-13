@@ -22,7 +22,7 @@
 * RN
 * weex
 ## 桌面端
-*e
+* electron
 ## 工具
 * lodash
 * webpack
