@@ -10,16 +10,37 @@
 ## 小程序，公众号
 * 要有项目
 ## h5
+* canvas
+* svg
+* 有名的动画库
+    * animate.css
+    * velocity.js
+    * tween.js
+    * mojs
+* H5作品
 ## 工具
 * lodash
 * webpack
 * eslint
+## 可视化
+* echarts
+* g2
+* d3
+* 地图：腾讯，高德，百度
+## 正则表达式
+## 函数式编程
+## 前端框架
+* vue
+* react
 ## 未来关注的技术
 * pwa
 * js的设计模式(如订阅观察者模式)
 ## 复习中还没看的知识点
 * localStorage,sessionStorage,cookie,session
 * http
+## 书籍
+* js高级程序设计
+* es6
 ***
 # 后端
 ## python
