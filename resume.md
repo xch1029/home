@@ -15,9 +15,14 @@
 * 有名的动画库
     * animate.css
     * velocity.js
-    * tween.js
+    * tweenmax.js
     * mojs
 * H5作品
+## 移动端
+* RN
+* weex
+## 桌面端
+*e
 ## 工具
 * lodash
 * webpack
