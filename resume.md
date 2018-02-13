@@ -29,6 +29,8 @@
 * 地图：腾讯，高德，百度
 ## 正则表达式
 ## 函数式编程
+    * http://www.ruanyifeng.com/blog/2017/02/fp-tutorial.html
+    * https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/
 ## 前端框架
 * vue
 * react
