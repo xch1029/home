@@ -26,7 +26,12 @@
 ## 工具
 * lodash
 * webpack
+* gulp
 * eslint
+* easy-mark
+* markdown
+* less sass
+* postman
 ## 可视化
 * echarts
 * g2
@@ -41,15 +46,38 @@
 * react
 ## 未来关注的技术
 * pwa
-* js的设计模式(如订阅观察者模式)
+* js的设计模式(如发布-订阅模式)
+## 源码
+* lodash
+* underscore
+* iview
+* d3
+* 30-seconds-of-code
+* animate.css
 ## 复习中还没看的知识点
 * localStorage,sessionStorage,cookie,session
 * http
+## js重量级知识点
+* 原型链
+* 闭包
 ## 书籍
 * js高级程序设计
-* es6
+* js权威指南
+* es6入门
 * 面向对象编程指南
+* 你不知道的js（上中下）
 ***
 # 后端
 ## python
+* DJango
 ## nodes
+* express
+# 运维
+* linux
+* nginx
+# 面试很可能被问到的问题
+* 你有什么规划吗
+* 你还有什么问题要问我
+* 你有什么优缺点
+    * 说话很直，基本不懂委婉，有时真的很想委婉的，结果还是说的很直接，伤人
+    * 有点怕生，不太愿意，不太敢直接和陌生人说话，比如问路啥的，我总是让和我同行的人去问
