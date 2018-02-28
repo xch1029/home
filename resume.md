@@ -76,8 +76,8 @@
 # 运维
 * linux
 * nginx
-# 待研究框架
-* fabric.js
+# 待研究框架
+* fabric.js
 * pixi.js
 # 面试很可能被问到的问题
 * 你有什么规划吗
