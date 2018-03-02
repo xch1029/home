@@ -54,6 +54,9 @@
 * d3
 * 30-seconds-of-code
 * animate.css
+## 插件
+* js原生插件的编写
+* jquery插件的编写
 ## 复习中还没看的知识点
 * localStorage,sessionStorage,cookie,session
 * http
