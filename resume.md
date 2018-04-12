@@ -54,7 +54,7 @@
 * d3
 * 30-seconds-of-code
 * animate.css
-* pell 简单的富文本
+* pell  简单的富文本
 * notie
 ## 插件
 * js原生插件的编写
