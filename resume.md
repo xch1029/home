@@ -62,6 +62,7 @@
 ## 复习中还没看的知识点
 * localStorage,sessionStorage,cookie,session
 * http
+* chrome devtool里performance
 ## js重量级知识点
 * 原型链
 * 闭包
