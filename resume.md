@@ -21,6 +21,7 @@
 ## 移动端
 * RN
 * weex
+* flutter
 ## 桌面端
 * electron
 ## 工具
@@ -36,6 +37,7 @@
 * echarts
 * g2
 * d3
+* three.js
 * 地图：腾讯，高德，百度
 ## 正则表达式
 ## 函数式编程
