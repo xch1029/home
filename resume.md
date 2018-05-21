@@ -15,7 +15,7 @@
 * 有名的动画库
     * animate.css
     * velocity.js
-    * tweenmax.js
+    * tweenmax.js
     * mojs
 * H5作品
 ## 移动端
