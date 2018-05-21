@@ -84,6 +84,11 @@
 # 运维
 * linux
 * nginx
+# 持续开发的工作环境
+* github
+* githook?
+* linux
+* nginx
 # 待研究框架
 * fabric.js
 * pixi.js
