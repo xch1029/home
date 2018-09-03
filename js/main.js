@@ -1,6 +1,14 @@
 var days = [
      {
         date: '2018-9-3',
+        time: '22:53',
+        title: '文档',
+        content:`
+                    只有看文档才能冷静，我不停的刷着github
+                `
+    },
+     {
+        date: '2018-9-3',
         time: '22:41',
         title: '现况',
         content:`
