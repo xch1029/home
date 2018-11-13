@@ -6,7 +6,7 @@ var days = [
     content: `
       <p>没错了，小倩家要拆迁了，公告都下来了</p>
       <p>之前看过一篇文章，讲的是一个男的家拆迁了，然后把自己的女友甩了，回家当自己的暴发户了。我突然后脑勺一冷。理论上这事不会发生在我的身上</p>
-      <img src="images/xiaoqian.png" />
+      <img src="images/xiaoqian.jpg" />
     `
   },
   {
