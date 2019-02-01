@@ -1,5 +1,15 @@
 var days = [
   {
+    date: '2019-02-01',
+    time: '9:11',
+    title: '最后一天',
+    content: `
+      <p>2018年接近尾声，2019年的钟声即将敲响。</p>
+      <p>回忆2018，我的技术上收获的还行，拿下了：react，react native，公众号，小程序，一点nginx</p>
+      <p>2019flag，拿下app原生开发，使用java，使用python，学习Iot，学习动效，学习源码 </p>
+    `
+  },
+  {
     date: '2019-01-14',
     time: '14:44',
     title: '正在遭受折磨',
